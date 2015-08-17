@@ -9,14 +9,14 @@
             <mBorderTopWidth>0</mBorderTopWidth>
             <mBorderRightWidth>0</mBorderRightWidth>
             <mBorderBottomWidth>0</mBorderBottomWidth>
-            <mWidth>276.75</mWidth>
+            <mWidth>567</mWidth>
             <mHeight>20.25</mHeight>
             <mFontSize>16</mFontSize>
             <mTextAlign>-4108</mTextAlign>
             <mValign>-4108</mValign>
             <mFontColor>0</mFontColor>
             <mRowspan>1</mRowspan>
-            <mColspan>2</mColspan>
+            <mColspan>4</mColspan>
             <mData>电表抄表统计报表</mData>
             <mDataType>string</mDataType>
           </FormColumn>
@@ -25,11 +25,11 @@
       <FormRow>
         <mRows>
           <FormColumn>
-            <mBorderLeftWidth>0</mBorderLeftWidth>
-            <mBorderTopWidth>0</mBorderTopWidth>
-            <mBorderRightWidth>0</mBorderRightWidth>
-            <mBorderBottomWidth>0</mBorderBottomWidth>
-            <mWidth>174.75</mWidth>
+            <mBorderLeftWidth>1</mBorderLeftWidth>
+            <mBorderTopWidth>1</mBorderTopWidth>
+            <mBorderRightWidth>1</mBorderRightWidth>
+            <mBorderBottomWidth>1</mBorderBottomWidth>
+            <mWidth>207</mWidth>
             <mHeight>14.25</mHeight>
             <mFontSize>12</mFontSize>
             <mTextAlign>-4108</mTextAlign>
@@ -41,11 +41,11 @@
             <mDataType>string</mDataType>
           </FormColumn>
           <FormColumn>
-            <mBorderLeftWidth>0</mBorderLeftWidth>
-            <mBorderTopWidth>0</mBorderTopWidth>
-            <mBorderRightWidth>0</mBorderRightWidth>
-            <mBorderBottomWidth>0</mBorderBottomWidth>
-            <mWidth>102</mWidth>
+            <mBorderLeftWidth>1</mBorderLeftWidth>
+            <mBorderTopWidth>1</mBorderTopWidth>
+            <mBorderRightWidth>1</mBorderRightWidth>
+            <mBorderBottomWidth>1</mBorderBottomWidth>
+            <mWidth>126.75</mWidth>
             <mHeight>14.25</mHeight>
             <mFontSize>12</mFontSize>
             <mTextAlign>-4108</mTextAlign>
@@ -53,7 +53,39 @@
             <mFontColor>0</mFontColor>
             <mRowspan>1</mRowspan>
             <mColspan>1</mColspan>
-            <mData>电量</mData>
+            <mData>表码差值电量</mData>
+            <mDataType>string</mDataType>
+          </FormColumn>
+          <FormColumn>
+            <mBorderLeftWidth>1</mBorderLeftWidth>
+            <mBorderTopWidth>1</mBorderTopWidth>
+            <mBorderRightWidth>1</mBorderRightWidth>
+            <mBorderBottomWidth>1</mBorderBottomWidth>
+            <mWidth>116.25</mWidth>
+            <mHeight>14.25</mHeight>
+            <mFontSize>12</mFontSize>
+            <mTextAlign>-4108</mTextAlign>
+            <mValign>-4108</mValign>
+            <mFontColor>0</mFontColor>
+            <mRowspan>1</mRowspan>
+            <mColspan>1</mColspan>
+            <mData>电表增量电量</mData>
+            <mDataType>string</mDataType>
+          </FormColumn>
+          <FormColumn>
+            <mBorderLeftWidth>1</mBorderLeftWidth>
+            <mBorderTopWidth>1</mBorderTopWidth>
+            <mBorderRightWidth>1</mBorderRightWidth>
+            <mBorderBottomWidth>1</mBorderBottomWidth>
+            <mWidth>117</mWidth>
+            <mHeight>14.25</mHeight>
+            <mFontSize>12</mFontSize>
+            <mTextAlign>-4108</mTextAlign>
+            <mValign>-4108</mValign>
+            <mFontColor>0</mFontColor>
+            <mRowspan>1</mRowspan>
+            <mColspan>1</mColspan>
+            <mData>差值</mData>
             <mDataType>string</mDataType>
           </FormColumn>
         </mRows>
@@ -61,11 +93,11 @@
       <FormRow>
         <mRows>
           <FormColumn>
-            <mBorderLeftWidth>0</mBorderLeftWidth>
-            <mBorderTopWidth>0</mBorderTopWidth>
-            <mBorderRightWidth>0</mBorderRightWidth>
-            <mBorderBottomWidth>0</mBorderBottomWidth>
-            <mWidth>174.75</mWidth>
+            <mBorderLeftWidth>1</mBorderLeftWidth>
+            <mBorderTopWidth>1</mBorderTopWidth>
+            <mBorderRightWidth>1</mBorderRightWidth>
+            <mBorderBottomWidth>1</mBorderBottomWidth>
+            <mWidth>207</mWidth>
             <mHeight>14.25</mHeight>
             <mFontSize>12</mFontSize>
             <mTextAlign>1</mTextAlign>
@@ -77,11 +109,11 @@
             <mDataType>string</mDataType>
           </FormColumn>
           <FormColumn>
-            <mBorderLeftWidth>0</mBorderLeftWidth>
-            <mBorderTopWidth>0</mBorderTopWidth>
-            <mBorderRightWidth>0</mBorderRightWidth>
-            <mBorderBottomWidth>0</mBorderBottomWidth>
-            <mWidth>102</mWidth>
+            <mBorderLeftWidth>1</mBorderLeftWidth>
+            <mBorderTopWidth>1</mBorderTopWidth>
+            <mBorderRightWidth>1</mBorderRightWidth>
+            <mBorderBottomWidth>1</mBorderBottomWidth>
+            <mWidth>126.75</mWidth>
             <mHeight>14.25</mHeight>
             <mFontSize>12</mFontSize>
             <mTextAlign>1</mTextAlign>
@@ -90,6 +122,38 @@
             <mRowspan>1</mRowspan>
             <mColspan>1</mColspan>
             <mData>Value</mData>
+            <mDataType>string</mDataType>
+          </FormColumn>
+          <FormColumn>
+            <mBorderLeftWidth>1</mBorderLeftWidth>
+            <mBorderTopWidth>1</mBorderTopWidth>
+            <mBorderRightWidth>1</mBorderRightWidth>
+            <mBorderBottomWidth>1</mBorderBottomWidth>
+            <mWidth>116.25</mWidth>
+            <mHeight>14.25</mHeight>
+            <mFontSize>12</mFontSize>
+            <mTextAlign>1</mTextAlign>
+            <mValign>-4108</mValign>
+            <mFontColor>0</mFontColor>
+            <mRowspan>1</mRowspan>
+            <mColspan>1</mColspan>
+            <mData>IncrementValue</mData>
+            <mDataType>string</mDataType>
+          </FormColumn>
+          <FormColumn>
+            <mBorderLeftWidth>1</mBorderLeftWidth>
+            <mBorderTopWidth>1</mBorderTopWidth>
+            <mBorderRightWidth>1</mBorderRightWidth>
+            <mBorderBottomWidth>1</mBorderBottomWidth>
+            <mWidth>117</mWidth>
+            <mHeight>14.25</mHeight>
+            <mFontSize>12</mFontSize>
+            <mTextAlign>1</mTextAlign>
+            <mValign>-4108</mValign>
+            <mFontColor>0</mFontColor>
+            <mRowspan>1</mRowspan>
+            <mColspan>1</mColspan>
+            <mData>DvalueColumn</mData>
             <mDataType>string</mDataType>
           </FormColumn>
         </mRows>
